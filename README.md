@@ -36,24 +36,19 @@ o	Provides scalable computation for handling large datasets.
 
 ## Outputs
 ### •	Sentiment Analysis Results:
-
--  1)	Reviews classified as:
--  2)	Positive
--  3)	Neutral
--  4)	Negative- 
-- 5)	Confidence scores for each sentiment.
+  Reviews Classified As : Positive , Negative and Neutral ,   Sentment scoring
+  
 
 ### •	Keyword Insights:
-
-- 6)	Frequent terms associated with positive and negative reviews.
-- 7)	Categorized themes for actionable insights.
+  Frequent terms associated with positive and negative reviews ,  Categorized themes for actionable insights.
+   
 
 ### •	Automated reply / custom bot for actionable insights
-- 8)	User can directly type in questions and get the feed back 
-
+  User can directly type in questions and get the feed back 
+    
 ### •	Trends and Metrics:
-- 9)	Distribution of sentiments over time.
-- 10)	Most common keywords and recurring issues.
-- 11)	High value customers with negative review
--
+Distribution of sentiments over time.  Most common keywords and recurring issues.   High value customers with negative review
+ .
+
+
 
