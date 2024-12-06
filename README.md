@@ -1,6 +1,6 @@
 
 ## Overview
-This project focuses on extracting actionable insights from Trustpilot reviews for a Lebara, using customer feedback stored in Databricks, we perform sentiment analysis, keyword extraction and RAG to identify areas of improvement and key strengths. This data is fed in Power BI dashboards and reports and can be used to take proactive actions to improve customer satisfaction rating
+This project focuses on extracting actionable insights from Trustpilot reviews for a Lebara, using customer feedback stored in Databricks, we perform sentiment analysis, keyword extraction and RAG to identify areas of improvement and key strengths. The data is enriched with metrics such as Churn Score, Average Customer Value, Tenure, Last Usage Date and Customer Type. This data is fed into Power BI dashboards and reports and can be used to take proactive actions to improve customer satisfaction rating.
 
 ## Sentiment Analysis:
 •	We use a Hugging Face pre-trained model for sentiment analysis to classify reviews into:
